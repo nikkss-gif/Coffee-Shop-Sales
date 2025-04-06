@@ -1,4 +1,5 @@
 ☕ Coffee Shop Sales Analysis Dashboard
+
 📊 Project Overview
 This project presents an insightful Excel-based dashboard analyzing the sales and customer behavior of a fictional coffee shop chain across multiple locations. Built using Excel and pivot tools, the dashboard provides a deep dive into sales trends, customer footfall, and product preferences.
 
