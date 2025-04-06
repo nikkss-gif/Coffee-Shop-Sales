@@ -1,46 +1,51 @@
-**☕ Coffee Shop Sales Analysis Dashboard**
+# ☕ Coffee Shop Sales Analysis Dashboard
 
-📊 Project Overview
-This project presents an insightful Excel-based dashboard analyzing the sales and customer behavior of a fictional coffee shop chain across multiple locations. Built using Excel and pivot tools, the dashboard provides a deep dive into sales trends, customer footfall, and product preferences.
+## 📊 Project Overview
+This Excel-based dashboard analyzes the sales and customer behavior of a coffee shop chain. Using pivot tables, slicers, and dynamic charts, the dashboard offers a comprehensive view of product performance, customer footfall, and peak ordering patterns.
 
-📌 Description
-The Coffee Shop Sales Dashboard helps uncover patterns in customer behavior, peak ordering times, and product performance. The visualizations are built using slicers, pivot charts, and Excel formulas to ensure dynamic, interactive exploration of the data.
+---
 
-🔍 Key Insights:
-Total Sales: $698,812.33
+## 📌 Description
+The Coffee Shop Sales Dashboard allows business users and analysts to explore key metrics like total sales, average billing, and order distribution in a visually interactive way. It provides meaningful insights that help guide strategic decisions related to product offerings, store performance, and customer engagement.
 
-Total Footfall: 149,116
+---
 
-Average Bill per Person: $4.69
+## 🔍 Key Insights:
+- **Total Sales:** $698,812.33  
+- **Total Footfall:** 149,116  
+- **Average Bill/Person:** $4.69  
+- **Average Order/Person:** 1.44  
+- **Top Products:** Barista Espresso, Brewed Chai Tea, Hot Chocolate  
+- **Peak Hours:** 8 AM to 10 AM  
+- **Top Store Locations:** Hell’s Kitchen, Astoria, Lower Manhattan  
+- **Leading Category:** Coffee (39%), followed by Tea (28%)
 
-Top Products: Barista Espresso, Brewed Chai Tea, Hot Chocolate
+---
 
-Peak Hours: 8 AM to 10 AM
+## 📁 Dashboard Features:
+- Monthly and weekday filters using slicers  
+- Hour-wise quantity analysis  
+- Category-wise and order-size distribution  
+- Store-wise footfall vs. sales comparison  
+- Top 5 best-selling products  
+- Weekday ordering trends  
 
-Top Performing Locations: Hell’s Kitchen, Astoria, Lower Manhattan
+---
 
-Highest Sales Category: Coffee (39%), followed by Tea (28%)
+## 🛠 Tools Used:
+- **Microsoft Excel**  
+- **Pivot Tables & Charts**  
+- **Slicers for interactivity**  
+- **Raw transactional data preprocessing**
 
-📁 Dashboard Features:
-Monthly and weekday sales filtering using slicers
+---
 
-Category-wise % sales breakdown
+## 🎯 Purpose:
+To showcase the power of Microsoft Excel in transforming raw sales data into actionable business intelligence. This project is ideal for analysts and business owners looking to optimize product strategy, customer service, and operational efficiency.
 
-Order distribution by size (Small, Regular, Large)
+---
 
-Hour-wise order quantity trends
+## 📌 Preview:
+![Coffee Shop Dashboard](./Screenshot%202024-10-04%20191518.png)
 
-Sales and footfall across locations
-
-Best-selling products ranking
-
-🛠 Tools Used:
-Microsoft Excel (Pivot Tables, Charts, Slicers)
-
-Data Source: Cleaned transactional data from Excel workbook
-
-Techniques: Data aggregation, charting, interactive filtering
-
-🎯 Purpose:
-This project demonstrates how Excel can be used to build powerful, interactive dashboards for real-world business analysis. It’s ideal for anyone looking to explore customer behavior, improve inventory decisions, or enhance business intelligence using Excel.
-
+---
